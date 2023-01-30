@@ -104,6 +104,10 @@ Execute the program
 ```
 # OUPUT
 
-![output](./Screenshot (18).png)
+![Screenshot (18)](https://user-images.githubusercontent.com/118787344/215373035-9cd1ac87-757e-4128-bd76-612244c617e1.png)
+
+# Result :
+
+
 
 
