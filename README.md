@@ -108,6 +108,4 @@ Execute the program
 
 # Result :
 
-
-
-
+Program executed successfully.
