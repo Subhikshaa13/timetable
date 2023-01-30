@@ -104,4 +104,6 @@ Execute the program
 ```
 # OUPUT
 
+![output](./Screenshot (18).png)
+
 
